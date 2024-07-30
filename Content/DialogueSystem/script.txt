@@ -1,0 +1,50 @@
+Je suis où? - Toi
+Tu est dans la faculté d'informatique de l'UdS - Vieux Étudiant
+Tu est dans la faculté d'informatique de l'UdS - Vieux Étudiant
+Bon, il faut juste savoir qu’il faut faire attention aux faiblesses des ennemies. Fais des précautions à tes points d’études (PE), certains ennemis ont besoin beaucoup de dommage et c’est une ressource limitée, donc fais des choix sensibles. - Vieux Étudiant
+Maintenant, je vais te tester. Je vous encourage à utiliser les études que tu connais. Prépare-toi! - Vieux Étudiant
+
+Le jeu se déroule comme un jeu de rôle par tours. Tu dois faire des choix pour gagner des habilités ou récupérer de l’énergie, ainsi que combattre des matières pour réussir cette année académique. - Vieux Étudiant
+Pour réussir des combats, tu dois choisir des attaques, ainsi que faire attention à tes points de vie (PV) et tes points d’études (PE). - Vieux Étudiant
+Les matières peuvent seulement être vaincues en utilisant une combinaison des attaques normales avec de bonnes méthodes d’études, les méthodes d’étude qui sont le plus alignées à la matière feront plus de dommage.- Vieux Étudiant
+Il faut par contre éviter dépenser tous tes points d’étude! Les évènements qui permettent regagner ces points sont limités. Imagine tes PE comme ton endurance d’esprit, les activités qui font te sentir mentalement mieux vont récupérer tes PE. - Vieux Étudiant
+Maintenant je vais te tester au combat. Je t’encourage à tester les études que tu connais maintenant. Prépare-toi! - Vieux Étudiant
+
+wow - Toi
+Bon, maintenant je vais récupérer tes PE. Je vais aussi t’enseigner une meilleure manière de coder. - Vieux Étudiant
+[PE récupérée, nouveau mouvement appris : codage intermédiaire] - Narrateur
+Bonne Chance! Tu dois faire tes études tout seul maintenant! - Vieux Étudiant
+
+
+Muahahaha! Je suis le cours d'analyse et programmation. Tu penses que tu peux être un programmeur? - IFT159
+[Le cours prepare une diagramme UML] - Narrateur
+Je vais te montrer! - Toi
+
+Pas si pire, je pense que tu as une chance.  - IFT159
+Mais tu penses survivre l'année?  Cela va être difficile.... - IFT159
+
+[Tu vas bien dans tes études et tu lis dans ton courriel le prochain 5 à 7, maintenant avec de la pizza garnie!] - Narrateur
+[Tu vas bien dans tes études et tu lis dans ton courriel le prochain 5 à 7, maintenant avec de la pizza garnie!] - Narrateur
+Bon je pense qu’il faut mieux étudier! - Toi
+[Tu as appris une nouvelle étude!] - Narrateur
+[Tu as appris une nouvelle étude!] - Narrateur
+
+Je pense que je peux faire de nouveaux amis! - Toi
+[L’expérience a récupéré tout ton PE] - Narrateur
+Cool! - Toi
+
+Tu penses que tu peux réussir tes études sans faire des maths? - MAT193
+Tu dois savoir que la logique d’informatique est formée de la logique mathématique! - MAT193
+Je n’ai pas peur de toi, j’ai fait des maths au CÉGEP, prépare-toi! - Toi
+
+N’oublie pas tes maths! - Math193
+
+[Tu vas bien dans la moitié l’année scolaire, tu es pour le moment dans ta semaine de relâche] - Narrateur
+[Tu as reçu une invitation de ta famille d’aller visiter la Gaspésie pour profiter la semaine.]- Narrateur
+[Cependant, un professeur t’a assigné de faire la lecture d’un livre du cours. Qu’est-ce que tu veux faire?] - Toi
+Faut mieux étudier! - Narrateur
+[Tu as appris une nouvelle étude!] - Narrateur
+
+Je ne peux pas manquer cette opportunité! - Toi
+[Le voyage a récupéré tout ton PE] - Narrateur
+Bon, à continuer à étudier. - Toi

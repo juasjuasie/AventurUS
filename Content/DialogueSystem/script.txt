@@ -48,3 +48,52 @@ Faut mieux étudier! - Narrateur
 Je ne peux pas manquer cette opportunité! - Toi
 [Le voyage a récupéré tout ton PE] - Narrateur
 Bon, à continuer à étudier. - Toi
+
+Attends! Tu penses que tu peux juste continuer sans moi? - ???
+L’objet orienté n’est pas si simple! Et ces méthodes de conception sont importantes pour plusieurs industries. - IFT232
+Je vais apprendre de toi! - Toi
+
+Hmm, tu sembles avoir la passion pour cette étude. - IFT232
+Mais ne relâche pas trop! La fin d’année s’approche et Noël c’est la dernière chose que tu dois penser en ce moment!- IFT232
+OK! - Toi
+
+[Tu avances bien dans tes études et maintenant tu as fait de nouveaux amis de cours] - Narrateur
+[Tu as même reçu une invitation pour aller à une fête. Qu’est-ce que tu veux faire?] - Narrateur
+[Tu as décidé de retourner à la maison, ceci te donne le temps pour étudier.] - Narrateur
+[Tu as appris une nouvelle étude!] - Narrateur
+
+[Aller aux fêtes t’a donné le temps de relâcher plus!] - Narrateur 
+C’était fun! - Toi
+
+La fondation d’un bon programme se base sur de bonnes structures de données. - IFT339
+Wow, espace personnel SVP! - Toi
+Et… comment les structures de données sont-elles importantes? Tout ne peut juste être des tableaux? - Toi
+WRAAAAAAGH! Tu vas payer pour cette insolence! - IFT339
+
+J’espère que tu respectes maintenant les structures de données. - IFT339
+Oui! - Toi
+
+[Les examens finals s’approchent rapidement. Qu’est-ce que tu veux faire?] - Narrateur
+Ben il faut étudier bien! - Toi
+[Tu as appris une nouvelle étude] - Narrateur
+
+(ZZZZZZ) - Toi
+[Le sommeil bien nécessaire à récupérer tes PE] - Narrateur
+
+[Il reste encore du temps avant le défi final. Qu’est-ce que tu veux faire?] - Narrateur
+[Tu fais de dernières préparations dans tes études.] - Narrateur
+[Tu as appris une nouvelle étude] - Narrateur
+
+[Une dernière session de méditation à récupérer tes PE.] - Narrateur
+Phew! je pense que je suis prêt! - Toi
+
+Bon. Je suis prêt. AHHHHHHHHHH - Toi
+
+… - Examen Final UdS
+Je n’ai pas peur de toi, je peux réussir! - Toi
+
+J’ai réussi! - Félicitations! Tu as réussi la première année.
+Félicitations! Tu as réussi la première année. - UdS
+Tout le monde ne peut pas le faire, mais ta passion pour l’informatique et de bonnes décisions dans tes études académiques ont-tu aidé beaucoup. - UdS
+[Merci de jouer le jeu] - Narrateur
+Fin. - Narrateur

@@ -1,10 +1,9 @@
 Je suis où? - Toi
 Tu est dans la faculté d'informatique de l'UdS - Vieux Étudiant
-Tu est dans la faculté d'informatique de l'UdS - Vieux Étudiant
-Bon, il faut juste savoir qu’il faut faire attention aux faiblesses des ennemies. Fais des précautions à tes points d’études (PE), certains ennemis ont besoin beaucoup de dommage et c’est une ressource limitée, donc fais des choix sensibles. - Vieux Étudiant
-Maintenant, je vais te tester. Je vous encourage à utiliser les études que tu connais. Prépare-toi! - Vieux Étudiant
+Bon, il faut juste savoir qu’il faut faire attention aux faiblesses des ennemis. Fais des précautions à tes points d’études (PE), certains ennemis ont besoin beaucoup de dommages et c’est une ressource limitée, donc fais des choix sensibles. - Vieux Étudiant
+Maintenant, je vais te tester. Je t'encourage à utiliser les études que tu connais. Prépare-toi! - Vieux Étudiant
 
-Le jeu se déroule comme un jeu de rôle par tours. Tu dois faire des choix pour gagner des habilités ou récupérer de l’énergie, ainsi que combattre des matières pour réussir cette année académique. - Vieux Étudiant
+Le jeu se déroule comme un jeu de rôle par tours. Tu dois faire des choix pour gagner des habiletés ou récupérer de l’énergie, ainsi que combattre des matières pour réussir cette année académique. - Vieux Étudiant
 Pour réussir des combats, tu dois choisir des attaques, ainsi que faire attention à tes points de vie (PV) et tes points d’études (PE). - Vieux Étudiant
 Les matières peuvent seulement être vaincues en utilisant une combinaison des attaques normales avec de bonnes méthodes d’études, les méthodes d’étude qui sont le plus alignées à la matière feront plus de dommage.- Vieux Étudiant
 Il faut par contre éviter dépenser tous tes points d’étude! Les évènements qui permettent regagner ces points sont limités. Imagine tes PE comme ton endurance d’esprit, les activités qui font te sentir mentalement mieux vont récupérer tes PE. - Vieux Étudiant
@@ -12,8 +11,8 @@ Maintenant je vais te tester au combat. Je t’encourage à tester les études q
 
 wow - Toi
 Bon, maintenant je vais récupérer tes PE. Je vais aussi t’enseigner une meilleure manière de coder. - Vieux Étudiant
-[PE récupérée, nouveau mouvement appris : codage intermédiaire] - Narrateur
-Bonne Chance! Tu dois faire tes études tout seul maintenant! - Vieux Étudiant
+[PE récupérés, nouveau mouvement appris : codage intermédiaire] - Narrateur
+Bonne chance! Tu dois faire tes études tout seul maintenant! - Vieux Étudiant
 
 
 Muahahaha! Je suis le cours d'analyse et programmation. Tu penses que tu peux être un programmeur? - IFT159
@@ -21,16 +20,15 @@ Muahahaha! Je suis le cours d'analyse et programmation. Tu penses que tu peux ê
 Je vais te montrer! - Toi
 
 Pas si pire, je pense que tu as une chance.  - IFT159
-Mais tu penses survivre l'année?  Cela va être difficile.... - IFT159
+Mais tu penses survivre l'année?  Cela va être difficile... - IFT159
 
-[Tu vas bien dans tes études et tu lis dans ton courriel le prochain 5 à 7, maintenant avec de la pizza garnie!] - Narrateur
 [Tu vas bien dans tes études et tu lis dans ton courriel le prochain 5 à 7, maintenant avec de la pizza garnie!] - Narrateur
 Bon je pense qu’il faut mieux étudier! - Toi
 [Tu as appris une nouvelle étude!] - Narrateur
 [Tu as appris une nouvelle étude!] - Narrateur
 
 Je pense que je peux faire de nouveaux amis! - Toi
-[L’expérience a récupéré tout ton PE] - Narrateur
+[Grâce à l'expérience, tu as récupéré tous tes PE - Narrateur
 Cool! - Toi
 
 Tu penses que tu peux réussir tes études sans faire des maths? - MAT193
@@ -40,32 +38,32 @@ Je n’ai pas peur de toi, j’ai fait des maths au CÉGEP, prépare-toi! - Toi
 N’oublie pas tes maths! - Math193
 
 [Tu vas bien dans la moitié l’année scolaire, tu es pour le moment dans ta semaine de relâche] - Narrateur
-[Tu as reçu une invitation de ta famille d’aller visiter la Gaspésie pour profiter la semaine.]- Narrateur
-[Cependant, un professeur t’a assigné de faire la lecture d’un livre du cours. Qu’est-ce que tu veux faire?] - Toi
+[Tu as reçu une invitation de ta famille d’aller visiter la Gaspésie pour profiter de la semaine.]- Narrateur
+[Cependant, un professeur t’a assigné la tâche de faire la lecture d’un livre du cours. Qu’est-ce que tu veux faire?] - Toi
 Faut mieux étudier! - Narrateur
 [Tu as appris une nouvelle étude!] - Narrateur
 
 Je ne peux pas manquer cette opportunité! - Toi
-[Le voyage a récupéré tout ton PE] - Narrateur
+[Le voyage t'a permis de récupérer tous tes PE] - Narrateur
 Bon, à continuer à étudier. - Toi
 
 Attends! Tu penses que tu peux juste continuer sans moi? - ???
-L’objet orienté n’est pas si simple! Et ces méthodes de conception sont importantes pour plusieurs industries. - IFT232
+L’orienté-objet n’est pas si simple! Et ces méthodes de conception sont importantes pour plusieurs industries. - IFT232
 Je vais apprendre de toi! - Toi
 
 Hmm, tu sembles avoir la passion pour cette étude. - IFT232
 Mais ne relâche pas trop! La fin d’année s’approche et Noël c’est la dernière chose que tu dois penser en ce moment!- IFT232
 OK! - Toi
 
-[Tu avances bien dans tes études et maintenant tu as fait de nouveaux amis de cours] - Narrateur
+[Tu avances bien dans tes études et maintenant tu t'es fait de nouveaux amis de cours] - Narrateur
 [Tu as même reçu une invitation pour aller à une fête. Qu’est-ce que tu veux faire?] - Narrateur
 [Tu as décidé de retourner à la maison, ceci te donne le temps pour étudier.] - Narrateur
 [Tu as appris une nouvelle étude!] - Narrateur
 
-[Aller aux fêtes t’a donné le temps de relâcher plus!] - Narrateur 
+[Aller à la fête t’a donné le temps de relâcher plus!] - Narrateur
 C’était fun! - Toi
 
-La fondation d’un bon programme se base sur de bonnes structures de données. - IFT339
+Un bon programme repose sur de bonnes structures de données». - IFT339
 Wow, espace personnel SVP! - Toi
 Et… comment les structures de données sont-elles importantes? Tout ne peut juste être des tableaux? - Toi
 WRAAAAAAGH! Tu vas payer pour cette insolence! - IFT339
@@ -74,18 +72,18 @@ J’espère que tu respectes maintenant les structures de données. - IFT339
 Oui! - Toi
 
 [Les examens finals s’approchent rapidement. Qu’est-ce que tu veux faire?] - Narrateur
-Ben il faut étudier bien! - Toi
+Ben, il faut bien étudier! - Toi
 [Tu as appris une nouvelle étude] - Narrateur
 
 (ZZZZZZ) - Toi
-[Le sommeil bien nécessaire à récupérer tes PE] - Narrateur
+[Le sommeil bien nécessaire a permis de récupérer tes PE] - Narrateur
 
 [Il reste encore du temps avant le défi final. Qu’est-ce que tu veux faire?] - Narrateur
 [Tu fais de dernières préparations dans tes études.] - Narrateur
 [Tu as appris une nouvelle étude] - Narrateur
 
 [Une dernière session de méditation à récupérer tes PE.] - Narrateur
-Phew! je pense que je suis prêt! - Toi
+Fiou! je pense que je suis prêt! - Toi
 
 Bon. Je suis prêt. AHHHHHHHHHH - Toi
 
@@ -94,6 +92,6 @@ Je n’ai pas peur de toi, je peux réussir! - Toi
 
 J’ai réussi! - Félicitations! Tu as réussi la première année.
 Félicitations! Tu as réussi la première année. - UdS
-Tout le monde ne peut pas le faire, mais ta passion pour l’informatique et de bonnes décisions dans tes études académiques ont-tu aidé beaucoup. - UdS
+Tout le monde ne peut pas le faire, mais ta passion pour l’informatique et de bonnes décisions dans tes études académiques ont aidé beaucoup. - UdS
 [Merci de jouer le jeu] - Narrateur
 Fin. - Narrateur

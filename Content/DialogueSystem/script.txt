@@ -28,7 +28,7 @@ Bon je pense qu’il faut mieux étudier! - Toi
 [Tu as appris une nouvelle étude!] - Narrateur
 
 Je pense que je peux faire de nouveaux amis! - Toi
-[Grâce à l'expérience, tu as récupéré tous tes PE - Narrateur
+[Grâce à l'expérience, tu as récupéré tous tes PE] - Narrateur
 Cool! - Toi
 
 Tu penses que tu peux réussir tes études sans faire des maths? - MAT193
